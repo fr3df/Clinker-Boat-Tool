@@ -1,3 +1,3 @@
 # Clinker Boat Tool (HDA)
 
-Tool for reverse engineering and procedurally reconstructing historic clinker built boats to create clean, parametric 3D models based on overlaid photogrammetry scans. Initially developed as a research tool at the Game School at the University of Inland Norway in collaboration with Anno Museum’s conservation initiative for early 20th-century clinker-built boats in Norway.
+A tool for reverse-engineering and procedurally reconstructing historic clinker-built boats, generating clean, parametric 3D models from overlaid photogrammetry scans. Originally developed as a research project at the Game School, University of Inland Norway, in collaboration with Anno Museum’s conservation program for early 20th-century Norwegian clinker-built boats.
